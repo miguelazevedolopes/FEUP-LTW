@@ -54,3 +54,7 @@ Also, because of the photo upload handling do not forget to uncomment the "exten
 [Database Schema Initial Draft](documentation/database.png)
 
 [Database Schema](documentation/database_schema.png)
+
+## Disclaimer
+
+This repository, and every other repository (I own) named in the format FEUP-COURSENAME on GitHub correspond to the projects I developed during my time as a student at Faculty of Engineering of University of Porto.
